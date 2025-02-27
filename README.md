@@ -5,7 +5,7 @@
 ## Технології, якими я володію:
 
 - **Python 3.11** 🐍
-- **Django 5** 🕸️
+- **Django 5.1** 🕸️
 - **SQL** 💾
 - **SQLite** 💾
 - **MySQL** 🗄️
@@ -22,6 +22,13 @@
 - **MySQL Workbench** 💾
 - **SQLiteStudio** 💾
 - **HeidiSQL** 💾
+
+## Як зі мною зв'язатися:
+
+[Telegram](https://t.me/Olexandr_Hvozd) 📱
+[Email](mailto:olexandr.hvozd@gmail.comm) 📧
+
+
 
 ## Мої соціальні мережі:
 
