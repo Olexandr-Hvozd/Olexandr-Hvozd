@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привіт, я Олександр Гвоздь 👋
 
-<!--
-**Olexandr-Hvozd/Olexandr-Hvozd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я починаючий бекенд програміст, який активно розвивається в сфері програмування та веб-розробки. Мені подобається працювати з різними технологіями та інструментами, щоб створювати ефективні та масштабовані рішення.
 
-Here are some ideas to get you started:
+## Технології, якими я володію:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python 3.11** 🐍
+- **Django 5.1** 🕸️
+- **SQL** 💾
+- **SQLite** 💾
+- **MySQL** 🗄️
+- **MariaDB** 🗄️
+- **HTML** 🌐
+- **CSS** 🎨
+
+## Інструменти, які я використовую:
+
+- **Docker** 🐳
+- **Git** 💻
+- **GitHub** 🧑‍💻
+- **VS Code** 💻
+- **MySQL Workbench** 💾
+- **SQLiteStudio** 💾
+- **HeidiSQL** 💾
+
+## Мої соціальні мережі:
+
+[Telegram](https://t.me/Olexandr_Hvozd) 📱 | [Instagram](https://www.instagram.com/olexandr_hvozd?igsh=MWd1Z2phYXoyMm5mZw%3D%3D&utm_source=qr) 📸
+
+## 📣 Я шукаю нові можливості! 🚀
+
+Я відкритий до нових проєктів та завдань. Якщо ви шукаєте амбітного та мотивованого бекенд програміста, я з радістю приєднаюся до вашої команди!
+
+---
+
+### Готовий до нових проєктів!
