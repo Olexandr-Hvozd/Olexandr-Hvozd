@@ -25,14 +25,14 @@
 
 ## Як зі мною зв'язатися:
 
-[Telegram](https://t.me/Olexandr_Hvozd) 📱
+[Telegram](https://t.me/Olexandr_Hvozd) 📱 | 
 [Email](mailto:olexandr.hvozd@gmail.comm) 📧
 
 
 
 ## Мої соціальні мережі:
 
-[Telegram](https://t.me/Olexandr_Hvozd) 📱 | [Instagram](https://www.instagram.com/olexandr_hvozd?igsh=MWd1Z2phYXoyMm5mZw%3D%3D&utm_source=qr) 📸
+[Telegram](https://t.me/Olexandr_Hvozd) 📱 |  [Instagram](https://www.instagram.com/olexandr_hvozd?igsh=MWd1Z2phYXoyMm5mZw%3D%3D&utm_source=qr) 📸
 
 ## 📣 Я шукаю нові можливості! 🚀
 
