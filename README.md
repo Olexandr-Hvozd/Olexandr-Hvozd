@@ -1,8 +1,8 @@
-# Привіт, я Олександр Гвоздь 👋
+# Hi, I'm Oleksandr Hvozd 👋
 
-Я починаючий бекенд програміст, який активно розвивається в сфері програмування та веб-розробки. Мені подобається працювати з різними технологіями та інструментами, щоб створювати ефективні та масштабовані рішення.
+I am a beginner backend developer actively growing in the field of programming and web development. I enjoy working with various technologies and tools to create efficient and scalable solutions.
 
-## Технології, якими я володію:
+## Technologies I work with:
 
 - **Python 3.11** 🐍
 - **Django 5.1** 🕸️
@@ -13,7 +13,7 @@
 - **HTML** 🌐
 - **CSS** 🎨
 
-## Інструменти, які я використовую:
+## Tools I use:
 
 - **Docker** 🐳
 - **Git** 💻
@@ -23,21 +23,20 @@
 - **SQLiteStudio** 💾
 - **HeidiSQL** 💾
 
-## Як зі мною зв'язатися:
+## How to contact me:
 
-[Telegram](https://t.me/Olexandr_Hvozd) 📱 | 
-[Email](mailto:olexandr.hvozd@gmail.comm) 📧
+[Telegram](https://t.me/Olexandr_Hvozd) 📱 |  
+[Email](mailto:olexandr.hvozd@gmail.com) 📧
 
+## My social media:
 
+[Telegram](https://t.me/Olexandr_Hvozd) 📱 |  
+[Instagram](https://www.instagram.com/olexandr_hvozd?igsh=MWd1Z2phYXoyMm5mZw%3D%3D&utm_source=qr) 📸
 
-## Мої соціальні мережі:
+## 📣 I'm looking for new opportunities! 🚀
 
-[Telegram](https://t.me/Olexandr_Hvozd) 📱 |  [Instagram](https://www.instagram.com/olexandr_hvozd?igsh=MWd1Z2phYXoyMm5mZw%3D%3D&utm_source=qr) 📸
-
-## 📣 Я шукаю нові можливості! 🚀
-
-Я відкритий до нових проєктів та завдань. Якщо ви шукаєте амбітного та мотивованого бекенд програміста, я з радістю приєднаюся до вашої команди!
+I am open to new projects and challenges. If you're looking for an ambitious and motivated backend developer, I'd be happy to join your team!
 
 ---
 
-### Готовий до нових проєктів!
+### Ready for new projects!
