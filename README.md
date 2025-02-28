@@ -25,11 +25,11 @@ I am a beginner backend developer actively growing in the field of programming a
 
 ## How to contact me:
 
-[Telegram](https://t.me/Olexandr_Hvozd) 📱 |  [Email](mailto:olexandr.hvozd@gmail.com) 📧
+[Telegram](https://t.me/Olexandr_Hvozd) 📱 |   [Email](mailto:olexandr.hvozd@gmail.com) 📧
 
 ## My social media:
 
-[Telegram](https://t.me/Olexandr_Hvozd) 📱 |  [Instagram](https://www.instagram.com/olexandr_hvozd?igsh=MWd1Z2phYXoyMm5mZw%3D%3D&utm_source=qr) 📸
+[Telegram](https://t.me/Olexandr_Hvozd) 📱 |   [Instagram](https://www.instagram.com/olexandr_hvozd?igsh=MWd1Z2phYXoyMm5mZw%3D%3D&utm_source=qr) 📸
 
 ## 📣 I'm looking for new opportunities! 🚀
 
