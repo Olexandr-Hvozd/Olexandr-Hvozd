@@ -1,4 +1,4 @@
-# Hi, I'm Oleksandr Hvozd 👋
+# Hi, I'm Oleksandr👋
 
 I am a beginner backend developer actively growing in the field of programming and web development. I enjoy working with various technologies and tools to create efficient and scalable solutions.
 
