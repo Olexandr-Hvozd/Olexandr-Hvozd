@@ -17,10 +17,11 @@ I am a beginner backend developer actively growing in the field of programming a
 
 - **Docker** 🐳
 - **Git** 💻
+- **Postman** 📮
 - **GitHub** 🧑‍💻
 - **VS Code** 💻
-- **MySQL Workbench** 💾
-- **SQLiteStudio** 💾
+- **MySQL Workbench** 🛢️
+- **SQLiteStudio** 🗄️
 - **HeidiSQL** 💾
 
 ## How to contact me:
