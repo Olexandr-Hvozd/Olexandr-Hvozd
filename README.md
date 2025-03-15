@@ -15,7 +15,6 @@ I am a beginner backend developer actively growing in the field of programming a
 
 ## Tools I use:
 
-- **Docker** 🐳
 - **Git** 💻
 - **Postman** 📮
 - **MySQL Workbench** 🛢️
