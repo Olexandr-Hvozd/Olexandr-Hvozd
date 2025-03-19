@@ -6,6 +6,7 @@ I am a beginner backend developer actively growing in the field of programming a
 
 - **Python 3.11** 🐍
 - **Django 5.1** 🕸️
+- **Django REST framework**
 - **SQL** 💾
 - **SQLite** 💾
 - **MySQL** 🗄️
